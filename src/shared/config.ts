@@ -1,0 +1,4 @@
+export const CHAT_HISTORY_LIMIT = 20;
+export const MAX_MESSAGE_LENGTH = 4000;
+export const REQUEST_TIMEOUT_MS = 45000;
+export const RECEIVE_TIMEOUT_SECONDS = 30;
